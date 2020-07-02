@@ -22,7 +22,8 @@ public class Holamundo {
         JOptionPane.showMessageDialog(null, "hola GitKraken");
         // vamos a agregarle nuevas caracteristicas como pedir un dato
          String nombre =JOptionPane.showInputDialog("digite su nombre");
-
+         //nueva variable
+         boolean as ;
         //esta es unacorreccion de bug
         int a = 10;
 
