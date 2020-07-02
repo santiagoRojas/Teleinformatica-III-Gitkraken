@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -20,7 +21,7 @@ public class Holamundo {
 
         JOptionPane.showMessageDialog(null, "hola GitKraken");
         // vamos a agregarle nuevas caracteristicas como pedir un dato
-        JOptionPane.showInputDialog("digite su nombre");
+         String nombre =JOptionPane.showInputDialog("digite su nombre");
 
         //esta es unacorreccion de bug
         int a = 10;
