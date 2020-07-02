@@ -17,7 +17,9 @@ public class Holamundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "hola gitkraken");
+        JOptionPane.showMessageDialog(null, "hola GitKraken");
+        //esta es unacorreccion de bug
+        int a = 10;
     }
     
 }
