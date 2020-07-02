@@ -25,7 +25,8 @@ public class Holamundo {
 
         //esta es unacorreccion de bug
         int a = 10;
-
+        int b = 20;
+        int c  = 10*20;
     }
     
 }
