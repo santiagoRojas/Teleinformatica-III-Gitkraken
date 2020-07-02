@@ -18,6 +18,8 @@ public class Holamundo {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "hola gitkraken");
+        // vamos a agregarle nuevas caracteristicas como pedir un dato
+        JOptionPane.showInputDialog("digite su nombre");
     }
     
 }
