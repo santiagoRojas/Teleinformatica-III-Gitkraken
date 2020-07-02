@@ -20,7 +20,7 @@ public class Holamundo {
 
         JOptionPane.showMessageDialog(null, "hola gitkraken");
         // vamos a agregarle nuevas caracteristicas como pedir un dato
-        JOptionPane.showInputDialog("digite su nombre");
+        String nombre =JOptionPane.showInputDialog("digite su nombre");
 
         JOptionPane.showMessageDialog(null, "hola GitKraken");
         //esta es unacorreccion de bug
