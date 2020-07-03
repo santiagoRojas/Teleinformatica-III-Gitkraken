@@ -28,5 +28,8 @@ public class Holamundo {
         int a = 10;
 
     }
+    public void mostrarhola(){
+        System.out.println("holamundo");
+    }
     
 }
